@@ -17,7 +17,7 @@ Estou focado em aprimorar minhas habilidades em:
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?BillieJoel&show_icons=true&theme=radical)
 
 ## 📫 Como me Encontrar
 
