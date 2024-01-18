@@ -23,5 +23,7 @@ Estou focado em aprimorar minhas habilidades em:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devmagalhaes/)
+![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+
 
 Vamos criar coisas incríveis juntos! 😄
