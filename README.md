@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, eu sou Guilherme Magalhães 👋
 
-<!--
-**BillieJoel/BillieJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e adoro aprender novas tecnologias.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens: JavaScript,php
+- Bancos de Dados:  MySQL
+- Outras: HTML, CSS, Git,bootstrap
+
+## 🌱 Atualmente Aprendendo
+
+Estou focado em aprimorar minhas habilidades em:
+
+- Desenvolvimento de aplicativos web modernos
+- Ciência de dados e machine learning
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+## 📫 Como me Encontrar
+
+- LinkedIn: [Guilherme Magalhães](https://www.linkedin.com/in/seu-linkedin)
+- Website: [www.guilhermemagalhaes.dev](https://www.guilhermemagalhaes.dev)
+
+Vamos criar coisas incríveis juntos! 😄
