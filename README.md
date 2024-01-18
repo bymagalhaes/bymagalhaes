@@ -21,7 +21,7 @@ Estou focado em aprimorar minhas habilidades em:
 
 ## 📫 Como me Encontrar
 
-- LinkedIn: [Guilherme Magalhães](https://www.linkedin.com/in/seu-linkedin)
-- Website: [www.guilhermemagalhaes.dev](https://www.guilhermemagalhaes.dev)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)https://www.linkedin.com/in/seu-linkedin)
 
 Vamos criar coisas incríveis juntos! 😄
