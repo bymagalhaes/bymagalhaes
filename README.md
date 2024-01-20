@@ -23,7 +23,7 @@ Estou focado em aprimorar minhas habilidades em:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devmagalhaes/)
-
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.guilhermemagalhaes.dev.br)
 
 
 Vamos criar coisas incríveis juntos! 😄
