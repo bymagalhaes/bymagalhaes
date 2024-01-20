@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar sol
 
 - Linguagens: JavaScript,php
 - Bancos de Dados:  MySQL
-- Outras: HTML, CSS, Git,bootstrap
+- Outras: HTML, CSS, Git, bootstrap
 
 ## 🌱 Atualmente Aprendendo
 
