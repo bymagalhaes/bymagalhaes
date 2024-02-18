@@ -21,6 +21,8 @@ Estou focado em aprimorar minhas habilidades em:
 
 ## 📫 Como me Encontrar
 
+[<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png" alt="Ícone de Globo" width="20"/> Meu Site](https://www.guilhermemagalhaes.dev.br)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devmagalhaes/)
 
