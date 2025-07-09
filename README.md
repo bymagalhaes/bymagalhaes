@@ -13,7 +13,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar sol
 
 ## 📫 Como me Encontrar
 
-[<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png")]
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devmagalhaes/)
